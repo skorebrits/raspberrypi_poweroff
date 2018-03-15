@@ -1,1 +1,1 @@
-# Poweroff a raspberry pi with a physicalla attached button
+# Poweroff a raspberry pi with a physically attached button
